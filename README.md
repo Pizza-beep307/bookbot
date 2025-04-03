@@ -1,3 +1,2 @@
 # bookbot
-BookBot is my first project!
-The purpose of this bot it to give you many informations about any online book
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
